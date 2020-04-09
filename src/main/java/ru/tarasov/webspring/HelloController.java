@@ -2,10 +2,7 @@ package ru.tarasov.webspring;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.http.*;
-import org.springframework.web.servlet.ModelAndView;
 
-import java.lang.ref.ReferenceQueue;
 import java.util.Map;
 
 
